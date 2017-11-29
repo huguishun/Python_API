@@ -1,5 +1,4 @@
-# 基于图灵机器人的API接口测试框架
-# Python+requests+unittest+Excel
+# 基于Python+requests+unittest+Excel接口测试框架
 
 1：所有接口数据参数以字典形式存入Excel文件中
 ![excel_test](https://github.com/huguishun/Python_API/blob/master/img/excel_test.png)
